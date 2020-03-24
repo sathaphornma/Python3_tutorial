@@ -13,10 +13,10 @@
 # single quotes and double qoutes
 # ('...') and ("...")
 print("--------------------------------")
-print("my name is saifah") # (" ")
-print("my name is saifah's") # (" ' ")
-print('my name is saifah') # (' ')
-print('my name is saifah\'s') # (' \' ')
+print("It is a cat.") # (" ")
+print("It's a cat.") # (" ' ")
+print('It is a cat.') # (' ')
+print('It\'s a cat.') # (' \' ')
 
 print("\n")
  
