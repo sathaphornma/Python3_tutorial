@@ -1,11 +1,11 @@
 #Basic Operator
-print("2+2 = ",2+2)
-print("2-2 = ",2-2)
-print("2*2 = ",2*2)
-print("2**2 = ",2**2) # to the power of 2
-print("2/2 = ",2/2) # division always returns a floating point number
-print("2//2 = ",2//2) # floor division discards the fractional part
-print("2%2 = ",2%2) # the % operator returns the remainder of the division
+print("2+8 = ",2+8)
+print("2-8 = ",2-8)
+print("2*8 = ",2*8)
+print("2**8 = ",2**8) # to the power of 2
+print("2/8 = ",2/8) # division always returns a floating point number
+print("2//8 = ",2//8) # floor division discards the fractional part
+print("2%8 = ",2%8) # the % operator returns the remainder of the division
 
 
 
